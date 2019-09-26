@@ -1,7 +1,8 @@
 # Welcome!
 
-# About Me
+## About Ryan
 Ryan Kuang is a recent UCLA graduate with a BA in Geography.
+
 
 ```markdown
 Syntax highlighted code block
@@ -14,14 +15,13 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![ryankuang/5.13.quad.sunburns_insta_02.png](ryankuang/5.13.quad.sunburns_insta_02.png	)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ryankuang/ryankuang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Works
+[ryankuang/
 
 
 ## Contact
